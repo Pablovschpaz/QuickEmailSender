@@ -1,6 +1,6 @@
 # QuickEmailSender
 
-QuickEmailSender é uma UI simples, desenvolvida em Kotlin, que serve exclusivamente para o envio de emails. **Não é um cliente de email completo**, apenas uma solução rápida para enviar emails.
+QuickEmailSender foi desenvolvido em Kotlin, serve exclusivamente para o envio de emails. **Não é um cliente de email completo**, apenas uma solução rápida para enviar emails.
 
 ## Configuração
 
