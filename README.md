@@ -22,7 +22,9 @@ Para configurar o QuickEmailSender, defina as seguintes variáveis de ambiente:
     setx EMAIL_USER "seu_usuario"
     setx EMAIL_PASSWORD "sua_senha"
     ```
+3. Reinicie a máquina
 
+   
 ### Linux
 
 1. Abra o terminal.
